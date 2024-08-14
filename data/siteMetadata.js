@@ -3,7 +3,7 @@ const siteMetadata = {
   title: 'TurtiesIO SaaS',
   author: 'TurtiesIO',
   headerTitle: 'TurtiesIO',
-  description: "TurtiesIO's SaaS Entrepreneurship Blog",
+  description: 'Help dreamers acheive their dream using Technology',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://turties.io',
